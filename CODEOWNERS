@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @Gk40003438-sbc
+/src/backend/database.py      @Gk40003438-sbc
+/src/backend/routers/auth.py  @Gk40003438-sbc
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @Gk40003438-sbc
